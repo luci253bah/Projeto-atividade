@@ -1,0 +1,58 @@
+body{
+    background: 0px;
+
+}
+#container{
+    width: 996px;
+    height: 615px;
+    margin: 0 auto;    
+}
+#azul{
+    background-color: blue;
+    height: 960px;
+    width: 960px;
+}
+#vermelho{
+    background-color: red;
+    height: 672px;
+    width: 672px;
+}
+#verde{
+    background-color: green;
+    height: 960px;
+    width: 960px;
+}
+
+@media screen and(max-whidt:576px){
+
+}
+#azul{
+    height: 300px;
+
+}
+#vermelho{
+    height: 400px;
+
+}
+#verde{
+    height: 300px;
+}
+img{
+    margin: 80px;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+}
+.agencia{
+    margin-top: 10;
+    width: 150;
+    height: 100;
+
+}
+.titulo-vermelho{
+    color: red;
+
+}
+
+    
+
